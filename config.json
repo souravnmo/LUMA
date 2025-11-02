@@ -1,0 +1,18 @@
+{
+  "adminUIDs": [
+    "100041490666329",
+    "100089377592600",
+    "61573616253809",
+    "61558819595998",
+    "61560885554052"
+  ],
+  "deepseek": {
+    "apiKey": "sk-ce7fcce468714b929fa1cfb16e22f7d3"
+  },
+  "gemini": {
+    "apiKey": "AIzaSyD1dNh-_l-2Imu0A1SoYv11CPxCgfviVls"
+  },
+  "soundcloud": {
+    "clientId": "emtYgYTYncaCH7HKEAQUQ5SDWmSeQhRT"
+  }
+}

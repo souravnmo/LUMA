@@ -1,0 +1,25 @@
+{
+  "name": "messenger-group-bot",
+  "version": "1.0.0",
+  "description": "Unofficial Facebook Messenger Group Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "login": "node login.js"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "@dongdev/fca-unofficial": "^2.0.32",
+    "@google/genai": "^1.27.0",
+    "@napi-rs/canvas": "^0.1.80",
+    "axios": "^1.12.2",
+    "canvas": "^3.2.0",
+    "dotenv": "^16.6.1",
+    "moment": "^2.30.1",
+    "node-downloader-helper": "^2.1.9",
+    "numpy": "^0.0.1",
+    "soundcloud-downloader": "^1.0.0",
+    "youtube-dl-exec": "^3.0.25",
+    "ytdl-core": "^4.11.5"
+  }
+}
